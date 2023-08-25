@@ -1,0 +1,38 @@
+/* App.css */
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  width: 1379px;
+
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+input {
+  padding: 5px;
+  padding-right: 82px;
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+select {
+  padding: 5px;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+p {
+  font-size: 24px;
+  font-weight: bold;
+}
